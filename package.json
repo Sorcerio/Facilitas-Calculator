@@ -7,7 +7,7 @@
     "mathjs": "^7.1.0"
   },
   "devDependencies": {
-    "electron": "^9.1.0"
+    "electron": "^11.5.0"
   },
   "scripts": {
     "test": "electron ."
